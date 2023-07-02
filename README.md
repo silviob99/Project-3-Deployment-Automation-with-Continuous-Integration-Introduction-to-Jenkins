@@ -1,5 +1,4 @@
-![Uploading Jenkins.png…]()
-
+![Jenkins](https://github.com/silviob99/Deployment-Automation-with-Continuous-Integration-Introduction-to-Jenkins/assets/107585020/0976e50b-73f2-4eb2-b3b0-bdef54e45ce6)
 
 
 # Project-3-Deployment-Automation-with-Continuous-Integration-Jenkins
