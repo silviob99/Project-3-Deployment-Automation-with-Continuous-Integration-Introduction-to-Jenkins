@@ -24,4 +24,8 @@ sudo apt-get install jenkins
 Make sure Jenkins is up and running  
 
 ```sudo systemctl status jenkins```  
-4. By default Jenkins server uses TCP port 8080 - open it by a new Inbound rule in your EC2   
+4. By default Jenkins server uses TCP port 8080 - open it by a new Inbound rule in your EC2  
+
+<img width="772" alt="SecurityGroup8080" src="https://github.com/silviob99/Project-3-Deployment-Automation-with-Continuous-Integration-Introduction-to-Jenkins/assets/107585020/86628a04-4f9b-4de6-ad8f-316aeb14bbd3">
+
+
